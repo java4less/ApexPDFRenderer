@@ -23,7 +23,7 @@
     "apex": {
       "versions": ["5.2.0"],
       "plugin": {
-        "internalName": "PDFRENDERED",
+        "internalName": "PDFRENDERER",
         "type": "item",
         "demo": "https://apex.oracle.com/pls/apex/f?p=120936:2",
         "previewImage": "http://www.apex-reports.com/PDFArchive.png"
