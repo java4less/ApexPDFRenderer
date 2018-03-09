@@ -26,7 +26,7 @@
         "internalName" : "PDFRender",
         "type" : "item",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=120936:2",
-        "previewImage" : "http://www.apex-reports.com/pdfrender.gif"
+        "previewImage" : "https://raw.githubusercontent.com/java4less/ApexPDFRenderer/master/pdfrender.gif"
       }
     }
   }
