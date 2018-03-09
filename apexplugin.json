@@ -8,7 +8,7 @@
     "url" : "https://github.com/java4less/ApexPDFRenderer/issues",
     "email" : "java4less@confluencia.net"
   },
-  "license" : "Apache",
+  "license" : "Apache-2.0",
   "author" : {
     "name" : "Jon Sol",
     "email" : "java4less@confluencia.net",
